@@ -1,0 +1,41 @@
+.FirstColumn{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.FooterColumnWrapper {
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    justify-content: center;
+}
+.darkseagreen{
+    background-color: rgba(255,255,255,0.8);
+    box-shadow: 2px 2px 4px darkseagreen;
+}
+.ColumnTitle > p {
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: 0px;
+}
+.FooterColumn2x {
+    display: flex;
+    margin: 0px 80px 0px 0px;
+}
+.ColumnTitle:first-child {
+    margin-right: 80px;
+}
+.MarginBottom {
+    margin-bottom: 30px;
+}
+.ColumnTxtStrong, .ColumnTxtLight {
+    font-size: 16px;
+}
+.ColumnTxtStrong {
+    margin: 0px;
+}
+.ColumnTxtLight {
+    margin: 5px 0px 0px 0px;
+    font-weight: 300;
+    color: #8E8E8E;
+    line-height: 20px;
+}
