@@ -7,7 +7,6 @@ const FirstColumn = () => (
         <div className="FooterColumnWrapper">
             <div className="FooterColumn2x">
                 <div className="container darkseagreen">
-                    fsdfd
                     <div data-aos="fade-up" data-aos-duration="800" data-aos-easing="ease-out" data-aos-delay="100" className="ColumnTitle aos-init aos-animate" >
                         <p>Studies</p>
                         <div className="FooterMobileWrapper" >
